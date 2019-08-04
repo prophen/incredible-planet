@@ -9,15 +9,6 @@ sections:
     section_id: hero
     title: 'Peer Coaching, Structure, and Support'
     type: heroblock
-  - component: PortfolioBlock
-    layout_style: mosaic
-    num_projects_displayed: 6
-    section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    title: Recent Work
-    type: portfolioblock
-    view_all_text: View All
-    view_all_url: portfolio/index.html
   - component: ServicesBlock
     section_id: services
     serviceslist:
@@ -38,15 +29,6 @@ sections:
     subtitle: ''
     title: What We Do
     type: servicesblock
-  - actions:
-      - label: View Blog
-        url: blog/index.html
-    component: PostsBlock
-    num_posts_displayed: 2
-    section_id: latest-posts
-    subtitle: ''
-    title: Latest from the Blog
-    type: postsblock
   - component: ContactBlock
     section_id: contact
     subtitle: >-
