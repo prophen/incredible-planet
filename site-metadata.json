@@ -8,7 +8,13 @@
   },
   "footer": {
     "content": "&copy; Nee and Nikema",
-    "links": [],
+    "links": [
+      {
+        "text": "Discord Server",
+        "url": "https://discord.gg/UkzDDKx",
+        "new_window": true
+      }
+    ],
     "has_social": true
   }
 }
