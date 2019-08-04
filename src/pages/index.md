@@ -40,7 +40,7 @@ sections:
       to the exclusive study group channel.
 
 
-      <a href='https://discord.gg/UkzDDKx'><button>Join Discord</button></a>
+      <button><a href='https://discord.gg/UkzDDKx'>Join Discord</a></button>
     title: Join the Community
     type: contentblock
   - component: ContactBlock
