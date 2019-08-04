@@ -40,7 +40,7 @@ sections:
           justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
           lorem ipsum, non efficitur urna viverra et.
         title: Service title
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: What We Do
     type: servicesblock
   - component: TestimonialsBlock
@@ -66,12 +66,14 @@ sections:
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     title: Latest from the Blog
     type: postsblock
   - component: ContactBlock
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      This is not automated. Your message is going to be read by one of us.
+      Thank you for your patience!
     title: Contact Us
     type: contactblock
 menus:
