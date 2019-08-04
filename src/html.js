@@ -1,11 +1,14 @@
 import React from "react"
 import PropTypes from "prop-types"
-
+import {Helmet} from 'react-helmet'
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
+        <Helmet>
+        <script src="https://js.chargebee.com/v2/chargebee.js" data-cb-site="popschools" ></script>
+        </Helmet>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
