@@ -26,9 +26,23 @@ sections:
           you with peer support every step of the way. As long as you are
           committed to putting in the work, you will not get left behind.
         title: Support
+      - content: >-
+          You shouldn't need to go broke to learn to code. Our membership fee is
+          $20 per month (beta price) due the first week of the month.
+        title: Sane Pricing
     subtitle: ''
     title: What We Do
     type: servicesblock
+  - component: ContentBlock
+    content: >-
+      We will be meeting and chatting on our own Discord  server. You can join
+      free now and when you are ready to join the paid group you will get access
+      to the exclusive study group channel.
+
+
+      https://discord.gg/UkzDDKx
+    title: Join the Community
+    type: contentblock
   - component: ContactBlock
     section_id: contact
     subtitle: >-
