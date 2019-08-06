@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Study Group 1 - Day 0
 menus:
   main:
-    title: Blog
+    title: ''
     weight: 3
 template: blog
 ---
+
