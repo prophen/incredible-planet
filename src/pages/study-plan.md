@@ -6,11 +6,13 @@ menus:
     title: Study Plan
 template: page
 ---
-## The First Four Courses
+## The First Four Courses + Course 0
+### 0. HTML & CSS Crash Course - Kevin Powell
+
+https://scrimba.com/g/ghtmlcss
 
 ### 1. **The Web Developer Bootcamp - Colt Steele**
 
-*Our first Udemy course. We will start Monday, August 12, 2019*
 
 https://www.udemy.com/the-web-developer-bootcamp/
 
